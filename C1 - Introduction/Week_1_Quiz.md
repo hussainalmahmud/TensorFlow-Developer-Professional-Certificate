@@ -1,5 +1,5 @@
 #### 1. The diagram for traditional programming had Rules and Data In, but what came out?
-## Ans: Answers
+Ans: Answers
 #### 2. The diagram for Machine Learning had Answers and Data In, but what came out?
 Ans: Rules
 #### 3. When I tell a computer what the data represents (i.e. this data is for walking, this data is for running), what is that process called?
