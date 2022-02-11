@@ -1,2 +1,3 @@
 # TensorFlow-Developer-Professional-Certificate
-This repository is DeepLearning.AI TensorFlow Developer Professional Certificate 4 Courses
+This repository is DeepLearning.AI TensorFlow Developer Professional Certificate 4 Courses. 
+All exercises, assignments, and quizzes.    
